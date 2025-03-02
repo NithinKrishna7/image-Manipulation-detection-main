@@ -25,6 +25,4 @@ The project utilizes the *CASIA2 dataset*, containing:
 - *7,491 Authentic Images*  
 - *5,123 Tampered Images* (Copy-Move, Splicing)  
 
-## 🔧 Installation & Setup  
-Follow these steps to set up the project:  
 
